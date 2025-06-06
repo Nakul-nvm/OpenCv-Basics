@@ -18,8 +18,12 @@ This repository contains chapter-wise Python scripts to practice fundamental con
 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
+Here’s a ready-to-paste Markdown snippet. Just copy everything below (including the triple backticks) into your `README.md`:
 
-## 📂 File Structure
+```markdown
+## 📁 Folder Structure
+
+```
 
 Learning\_OpenCv/
 └── Resources/
@@ -33,6 +37,8 @@ Learning\_OpenCv/
 ├── chapter8.py   # Contours and shape detection
 ├── chapter9.py   # Face detection using Haar cascades
 
+```
+```
 
 ## 📌 Note
 
