@@ -21,15 +21,17 @@ This repository contains chapter-wise Python scripts to practice fundamental con
 
 ## 📂 File Structure
 
-chapter1.py # Reading media inputs
-chapter2.py # Applying basic image functions
-chapter3.py # Resize and crop examples
-chapter4.py # Drawing shapes and text
-chapter5.py # Perspective transforms
-chapter6.py # Image stacking utility
-chapter7.py # Real-time color detection
-chapter8.py # Contour and shape detection
-chapter9.py # Face detection with cascades
+Learning\_OpenCv/
+└── Resources/
+├── chapter1.py   # Read images, videos, and webcam
+├── chapter2.py   # Basic image functions (grayscale, blur, edge detection)
+├── chapter3.py   # Resizing and cropping
+├── chapter4.py   # Drawing shapes and adding text
+├── chapter5.py   # Warp perspective
+├── chapter6.py   # Joining images into a grid
+├── chapter7.py   # Color detection using HSV
+├── chapter8.py   # Contours and shape detection
+├── chapter9.py   # Face detection using Haar cascades
 
 
 ## 📌 Note
