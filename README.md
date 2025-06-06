@@ -1,6 +1,3 @@
-Below is the complete `README.md` with the **Folder Structure** section correctly formatted. You can copy-paste this directly:
-
-```markdown
 # OpenCV Basics – Chapter-wise Practice
 
 This repository contains chapter-wise Python scripts to practice fundamental concepts in computer vision using OpenCV. Each file demonstrates a specific topic, progressing from basic operations to shape and face detection.
@@ -22,25 +19,6 @@ This repository contains chapter-wise Python scripts to practice fundamental con
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 
-## 📁 Folder Structure
-
-```
-
-Learning\_OpenCv/
-└── Resources/
-├── chapter1.py   # Read images, videos, and webcam
-├── chapter2.py   # Basic image functions (grayscale, blur, edge detection)
-├── chapter3.py   # Resizing and cropping
-├── chapter4.py   # Drawing shapes and adding text
-├── chapter5.py   # Warp perspective
-├── chapter6.py   # Joining images into a grid
-├── chapter7.py   # Color detection using HSV
-├── chapter8.py   # Contours and shape detection
-├── chapter9.py   # Face detection using Haar cascades
-
-```
-
 ## 📌 Note
 
 This project is for self-practice and understanding core OpenCV operations using Python. It serves as a learning reference.
-```
