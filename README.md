@@ -1,3 +1,6 @@
+Below is the complete `README.md` with the **Folder Structure** section correctly formatted. You can copy-paste this directly:
+
+```markdown
 # OpenCV Basics – Chapter-wise Practice
 
 This repository contains chapter-wise Python scripts to practice fundamental concepts in computer vision using OpenCV. Each file demonstrates a specific topic, progressing from basic operations to shape and face detection.
@@ -18,9 +21,7 @@ This repository contains chapter-wise Python scripts to practice fundamental con
 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
-Here’s a ready-to-paste Markdown snippet. Just copy everything below (including the triple backticks) into your `README.md`:
 
-```markdown
 ## 📁 Folder Structure
 
 ```
@@ -38,10 +39,8 @@ Learning\_OpenCv/
 ├── chapter9.py   # Face detection using Haar cascades
 
 ```
-```
 
 ## 📌 Note
 
 This project is for self-practice and understanding core OpenCV operations using Python. It serves as a learning reference.
-
-
+```
